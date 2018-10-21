@@ -1,23 +1,19 @@
-﻿# Projektantrag  
+# ﻿Projektantrag  
   
 > Simon Ittensammer, Lorenz Gruber, Franziskus Ehmeir  
   
 ## Ausgangsstellung  
-Im Browserspiel [Skribbl.io](http://skribbl.io/) versuchen Spieler ein vorgegebenen Wort möglichst gut mit der Maus oder einem Grafik-Tablett zu zeichnen, während die anderen Spieler versuchen es zu erraten.  
+In der Super Smash Bros.-Reihe schlüpfen Spieler in die Rollen von beliebten Charakteren aus verschiedenen Nintendo-Franchises und treten gegeneinander an. Das grundlegende Spielprinzip beruht darauf, dass Spieler versuchen sich mit verschiedenen Angriffen, Combos und Items von einer Plattform zu schleudern. 
   
 ## Problemstellung  
-  
-- wenig Abwechslung im Spiel  
-- Wörter wiederhohlen sich oft  
+Die Spiele der Smash Bros. Reihe sind Vollpreistitel und kosten allesamt bis zu 60€. Außerdem sind eine Nintendo-Konsole und ein passender Controller nötig um diese zu spielen. Das macht es sehr teuer und unfreundlich für neue Spieler, die es nur einmal ausprobieren wollen.  Des weiteren verfügen die meisten Titel der Reihe über keinen Online-Mehrspieler-Modus außer dem neuesten Ableger. Dieser lässt jedoch auch zu wünschen über, da mann dabei nur sehr wenige bis keine Einstellungen treffen kann.
   
   
 ## Aufgabenstellung  
-  
-- Das grundlegende Spielprinzip von Skribble  
-- verschiedene, abwechechslungsreiche Spielmodi einführen  
-- Multiplayer über LAN mit Node.js  
-- spielbar auf verschiedenen Geräten  
+Wir möchten das Spielprinzip von Smash imitieren und es als Web-Application spielbar machen. Dabei wollen wir unsere Eigenen Charaktere, Spiel-Modi und Items erfinden und implementieren. Das Spiel soll in jedem Web-Browser spielbar sein und soll auch über einen Mehrspieler-Modus verfügen, in dem Spieler Lobbies mit speziellen Spieleinstellungen erstellen können.
+ 
   
 ## Nutzen  
-  
-mehr Spielspaß
+ - Das Spiel kann von überall aus im Browser gespielt werden.
+ - Man benötigt nur einen Computer, oder ein Smartphone um zu spielen.
+ - Wir sammeln Erfahrungen in der Projektentwicklung.
